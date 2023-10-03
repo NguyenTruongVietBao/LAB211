@@ -1,0 +1,4 @@
+P0009, Ronaldo Delima, 20, Male, Ho Chi Minh, 0273456910, Flu, 2023-04-20, 2023-04-21
+P0008, Ann Smith, 20, Female, Ho Chi Minh, 0853321452, Cough, 2023-04-11, 2023-04-12
+P0007, Bill Jamie, 20, Male, Ha Noi, 0932123495, Fever, 2023-04-10, 2023-04-11
+P0006, Cir Smith, 20, Male, Ha Noi, 0939064869, Flu, 2023-01-10, 2023-02-11
